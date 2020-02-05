@@ -1,0 +1,11 @@
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\bin\Release\Shablonizator 2.0.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\bin\Release\Shablonizator 2.0.exe
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\bin\Release\Shablonizator 2.0.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\bin\Release\MaterialSkin.dll
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\obj\Release\Shablonizator 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\obj\Release\Shablonizator_2._0.Form1.resources
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\obj\Release\Shablonizator_2._0.Properties.Resources.resources
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\obj\Release\Shablonizator 2.0.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\obj\Release\Shablonizator 2.0.exe
+C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Shablonizator 2.0\Shablonizator 2.0\obj\Release\Shablonizator 2.0.pdb
